@@ -1,4 +1,4 @@
-# Vision NoboGyanGPT
+# Vision : NoboGyanGPT
 
 This is not a company. This is a spark.
 
