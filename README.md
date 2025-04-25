@@ -1,20 +1,28 @@
-# Vision : NoboGyanGPT
+# NoboGyanGPT
 
-This is not a company. This is a spark.
+**An open-source AI initiative to build India's tech culture.**
 
-We aim to create an open, ethical, and deeply Indian AI ecosystem where:
+We are not here to compete. We are here to create.  
+NoboGyanGPT Commons is a humble initiative to open the doors of AI innovation to Indian students, teachers, and rural tech minds — using local languages, open tools, and community power.
 
-- Knowledge flows in Bengali, Hindi, Tamil, Assamese...
-- Innovation doesn’t need IIT degrees or venture capital
-- Contributions come from villages and metros alike
+## Why This Project?
 
-Our vision is to create:
-- Tools that explain science to students in their own language
-- Bots that translate Indian culture, values, and learning
-- A culture of building — not just consuming — AI
+Most AI tools today are built by tech giants for global use. We want to build a small, open, and local version — for students in Bengal, Bihar, Nagaland, Kerala — who want to learn, build, and dream in their own language.
 
-Even if our tools are small, our intent is vast.
+## What You’ll Find Here
 
-This is for the next generation of Indian builders.
+- Lightweight AI demo projects (NCERT QA, Language Tools)
+- Tools for creating Indic-language datasets
+- Beginner-friendly tutorials in Hindi/English
+- A call for open collaboration and mentorship
 
-Let’s begin, together.
+## Who Can Join?
+
+- Students (any stream, any level)
+- Self-learners and YouTubers
+- Teachers and educators
+- Small NGOs or community tech groups
+
+## License
+
+This is 100% open-source and non-commercial. Built with care, shared with love.
