@@ -16,4 +16,8 @@ Even if our tools are small, our intent is vast. This is for the next generation
 
 ---
 
+<<<<<<< HEAD
 *Come build the future — in your own language.*
+=======
+*Come build the future — in your own language.*
+>>>>>>> origin/main

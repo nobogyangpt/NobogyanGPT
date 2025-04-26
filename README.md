@@ -39,4 +39,8 @@ This project is **100% open-source and non-commercial**. Built with care, shared
 
 ---
 
+<<<<<<< HEAD
 *Come build the future — in your own language.*
+=======
+*Come build the future — in your own language.*
+>>>>>>> origin/main
