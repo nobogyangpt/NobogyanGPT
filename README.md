@@ -11,9 +11,9 @@ Most AI tools today are built by tech giants for global use. We want to build a 
 
 ## What You’ll Find Here
 
-- Lightweight AI demo projects (NCERT QA, Language Tools)
+- Lightweight AI demo projects [class 0 to class 12 (WBSE,WBCHSE,ICSE,CBSE,NCERT and others QA, private tutor Language Tools]
 - Tools for creating Indic-language datasets
-- Beginner-friendly tutorials in Hindi/English
+- Beginner-friendly tutorials in Bengali/Hindi/English and other regional Languages (India) 
 - A call for open collaboration and mentorship
 
 ## Who Can Join?
