@@ -17,7 +17,7 @@ We want a **small, local, open** alternative: starting with West Bengal Board’
 
 ## What You’ll Find Here
 
-1. **Lightweight AI Demo Projects** covering Class 0–12 syllabi (WBSE, WBCHSE, ICSE, CBSE, NCERT, and others).
+1. **Lightweight AI Demo Projects** covering Class 0–12 syllabus (WBSE, WBCHSE, ICSE, CBSE, NCERT, and others).
 2. **Tools** for creating Indic-language datasets and fine-tuning AI models.
 3. **Beginner-Friendly Tutorials** in Bengali, Hindi, English, and other regional languages.
 4. **A Call for Collaboration & Mentorship** to build together — students, teachers, NGOs, self-learners.
